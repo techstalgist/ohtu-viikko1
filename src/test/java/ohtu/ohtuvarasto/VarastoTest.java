@@ -128,6 +128,7 @@ public class VarastoTest {
     }
     
     @Test
+    
     public void oikeaMerkkijonoesitys() {
         varasto.lisaaVarastoon(8);
         
