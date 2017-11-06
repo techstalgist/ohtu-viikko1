@@ -3,9 +3,9 @@ package main;
 import ohtu.ohtuvarasto.Varasto;
 
 public class Main {
-    static final double TILAVUUS = 100.0;
-    static final double ALKUSALDO = 20.2;
-    static final double LISAYS = 1000.0;
+    private static final double TILAVUUS = 100.0;
+    private static final double ALKUSALDO = 20.2;
+    private static final double LISAYS = 1000.0;
     
     public static void main(String[] args) {
         
